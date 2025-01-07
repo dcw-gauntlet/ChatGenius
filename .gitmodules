@@ -1,0 +1,6 @@
+[submodule "simple-chat-ui"]
+	path = simple-chat-ui
+	url = https://github.com/dcw-gauntlet/simple-chat-ui.git
+[submodule "simplechat"]
+	path = simplechat
+	url = https://github.com/dcw-gauntlet/simplechat.git
